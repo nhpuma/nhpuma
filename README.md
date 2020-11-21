@@ -128,7 +128,7 @@ const NielsenPuma = {
 
 ### 📫Contact Me
 - Twitter - [@NielsenRichard](https://twitter.com/NielsenRichard)
-- Email - [Nielsen Puma](mailto:mustafadalgaa@gmail.com)
+- Email - [Nielsen Puma](mailto:nielhpuma@gmail.com)
 ---
 
 ⭐️ From [@nhpuma](https://github.com/nhpuma)
