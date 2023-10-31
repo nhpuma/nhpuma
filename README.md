@@ -1,7 +1,7 @@
 <h2> Hi, I'm Nielsen Puma! </h2>
 <hr />
 
-Hi, I'm a Full Stack Developer 🚀 from Perú, currently, I work as a freelance 👨🏽‍💻 in development of various projects and also in creating my own business. Beside's programming, I enjoy listening to music and reading technology news.
+Hello, I am a Full Stack Developer, I currently work as a Backend programmer👨🏽‍💻 in the development of various projects. In addition to programming, I enjoy listening to music and reading technology news.
 
 ### A little more about me...
 
